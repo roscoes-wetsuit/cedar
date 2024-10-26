@@ -1,0 +1,3 @@
+[workspace]
+members = ["cedar-nx"]
+resolver = "2"
